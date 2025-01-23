@@ -23,7 +23,7 @@ public class TestBase {
 		try
 		{
 			prop= new Properties();
-			FileInputStream ip =new FileInputStream("C:\\Users\\Alpha_320\\eclipse-workspace\\FullFrameworkTest\\src\\main\\java\\config.properties");
+			FileInputStream ip =new FileInputStream("C:\\Users\\Alpha_320\\eclipse-workspace\\FullFrameworkTest\\src\\main\\resources\\config.properties");
 			prop.load(ip)	;
 			System.out.println("prperties file reading");
 
