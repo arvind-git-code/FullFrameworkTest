@@ -54,7 +54,7 @@ mvn clean install
 
 	mvn test
 
-##Contributing
+## Contributing
 
 
 Contributions are welcome! Please follow these steps:
@@ -69,9 +69,9 @@ Fork the repository.
 
 4. Open a pull request.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##Acknowledgments
+## Acknowledgments
 Special thanks to the contributors of Selenium and TestNG for their powerful tools.
 
